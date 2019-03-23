@@ -161,3 +161,20 @@ section p{
   margin: 10px;
   padding: 15px;
 }
+
+.input{
+    font-size: 30px;
+    margin-top: 20px;
+    width: 50%;
+    text-align: center;
+    align-items: center;
+    margin-left: 25%;
+}
+
+.input input{
+    color: black;
+    border: none;
+    outline: none;
+    border: solid 2px #2F4F4F;
+    border-radius: 5px;
+}
